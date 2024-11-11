@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Homepage of Qi Zhou(周颀)!"
+title: "Welcome to the Homepage of Qi Zhou!"
 author_profile: true
 redirect_from: 
   - /about/
