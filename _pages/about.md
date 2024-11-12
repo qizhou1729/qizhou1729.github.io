@@ -13,7 +13,7 @@ I am currently a first-year Ph.D. candidate (combined master and doctoral) in th
 
 Research Interests
 ------
-I am now interested in fast algorithms of molecular dynamics (MD) simulation, especially scalable algorithms for general interaction kernels. Also, I consider the design of specialized MD hardwares and supercomputers and the application of new algorithms, expected to approach the SOTA. I am also interested in other fast algorithms such as convolution equations and non-local interactions.
+I am now interested in fast algorithms of molecular dynamics (MD) simulation, especially scalable algorithms for general interaction kernels. Meanwhile, I consider the design of specialized MD hardwares and supercomputers and the application of new algorithms, expected to approach the SOTA. I am also interested in other fast algorithms such as convolution equations and non-local interactions.
 
 
 Publications
