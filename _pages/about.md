@@ -38,11 +38,12 @@ Talks and Posters
 
 Honors and Awards (selected)
 ------
-1. 2024, Bonditech spark scholarship.
-2. 2023, National scholarship.
-3. 2021, The 5-th Sensetime scholarship.
-4. 2021, Baosteel outstanding student scholarship.
-5. 2021, Chia-Chiao Lin silver medal in the 12-th Yau's mathematics competition.
-6. 2021, Outstanding winner, COMAP scholarship and SIAM award in 2021 MCM/ICM.
-7. 2020, Distinguished prize in the 2nd Alibaba international mathematics competition.
-8. 2019, The first prize (national level) of the 11-th Chinese mathematics competition.
+1. 2024, Huatai securities technology scholarship.
+2. 2024, Bonditech spark scholarship.
+3. 2023, National scholarship.
+4. 2021, The 5-th Sensetime scholarship.
+5. 2021, Baosteel outstanding student scholarship.
+6. 2021, Chia-Chiao Lin silver medal in the 12-th Yau's mathematics competition.
+7. 2021, Outstanding winner, COMAP scholarship and SIAM award in 2021 MCM/ICM.
+8. 2020, Distinguished prize in the 2nd Alibaba international mathematics competition.
+9. 2019, The first prize (national level) of the 11-th Chinese mathematics competition.
