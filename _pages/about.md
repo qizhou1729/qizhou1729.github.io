@@ -25,8 +25,9 @@ Publications
 
 Preprints
 ------
-1. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369).
-2. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
+1. (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://arxiv.org/abs/2503.03183).
+2. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369).
+3. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
 
 
 Patents
