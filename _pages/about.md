@@ -18,16 +18,16 @@ I am now interested in fast algorithms of molecular dynamics (MD) simulation, es
 
 Publications
 ------
-1. (Alphabetic order) Z. Xu, Y. Zhao and **Q. Zhou**, [Variance-reduced random batch Langevin dynamics](https://pubs.aip.org/aip/jcp/article/161/24/244110/3328715/Variance-reduced-random-batch-Langevin-dynamics), *J. Chem. Phys.*, 161(2024), 244110.
-2. W. Gao, T. Zhao, Y. Guo, J. Liang, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, **Q. Zhou**, S. Jin and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), *Comm. Comput. Phys.*, in press.
-3. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](https://epubs.siam.org/doi/abs/10.1137/22M1497201?af=R), *SIAM J. Sci. Comput.*, 45 (2023), B591-B617.
+1. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369), *Appl. Comput. Harm. Anal.*, in press.
+2. (Alphabetic order) Z. Xu, Y. Zhao and **Q. Zhou**, [Variance-reduced random batch Langevin dynamics](https://pubs.aip.org/aip/jcp/article/161/24/244110/3328715/Variance-reduced-random-batch-Langevin-dynamics), *J. Chem. Phys.*, 161(2024), 244110.
+3. W. Gao, T. Zhao, Y. Guo, J. Liang, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, **Q. Zhou**, S. Jin and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://arxiv.org/abs/2407.09315), *Comm. Comput. Phys.*, in press.
+4. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](https://epubs.siam.org/doi/abs/10.1137/22M1497201?af=R), *SIAM J. Sci. Comput.*, 45 (2023), B591-B617.
 
 
 Preprints
 ------
 1. (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://arxiv.org/abs/2503.03183).
-2. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://arxiv.org/abs/2305.05369).
-3. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
+2. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
 
 
 Patents
