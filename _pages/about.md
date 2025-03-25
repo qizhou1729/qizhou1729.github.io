@@ -26,8 +26,9 @@ Publications
 
 Preprints
 ------
-1. (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://arxiv.org/abs/2503.03183).
-2. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
+1. X. Gao<sup>1</sup>, **Q. Zhou<sup>1</sup>**, Z. Gan<sup>\*</sup> and J. Liang <sup>\*</sup>, [Accurate error estimates and optimal parameter selection in Ewald summation for dielectrically confined Coulomb systems](https://arxiv.org/abs/2503.18126).
+2. (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://arxiv.org/abs/2503.03183).
+3. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
 
 
 Patents
