@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ------
-I am currently a first-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.S. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf).
+I am currently a first-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.S. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab) (currently maintained by me).
 
 Research Interests
 ------
