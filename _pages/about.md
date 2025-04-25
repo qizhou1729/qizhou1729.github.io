@@ -39,6 +39,8 @@ Talks and Posters
 ------
 1. (Both poster & oral presentation) Oct. 2024, The 8-th CSIAM Student Forum in the 22nd Annual Meeting of CSIAM, Nanjing, Jiangsu. **Awarded by Excellent oral presentation in the 8-th CSIAM Student Forum**.
 2. (Oral presentation) Jan. 2025, The 6-th Greater Bay Area Symposium on Soft and Living Matter, Nansha, Guangzhou. **Awarded by Best oral presentation award-1st place.**
+3. (Oral presentation) Apr. 2025, Seminar in Zhejiang Normal University, Jinhua, Zhejiang.
+4. (Oral presentation) Apr. 2025, Scientific Computing Seminar in Shanghai Jiao Tong University, Minhang, Shanghai.
 
 
 Honors and Awards (selected)
