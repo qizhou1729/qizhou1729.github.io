@@ -11,6 +11,10 @@ About me
 ------
 I am currently a first-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab) (currently maintained by me).
 
+Positions
+------
+1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)).
+
 Research Interests
 ------
 I am now interested in fast algorithms of molecular dynamics (MD) simulation, especially scalable algorithms for general interaction kernels. Meanwhile, I consider the design of specialized MD hardwares and supercomputers and the application of new algorithms, expected to approach the SOTA. I am also interested in other fast algorithms such as convolution equations and non-local interactions.
