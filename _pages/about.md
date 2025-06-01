@@ -13,7 +13,7 @@ I am currently a first-year Ph.D. candidate (combined master and doctoral) in th
 
 Positions
 ------
-1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)). Also free to contact me at <qzhou@flatironinstitute.org>!
+1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)). Also free to contact me at <qzhou@flatironinstitute.org> during the intern!
 
 Research Interests
 ------
