@@ -13,7 +13,7 @@ I am currently a first-year Ph.D. candidate (combined master and doctoral) in th
 
 Positions
 ------
-1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)).
+1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)). Also free to contact me at [qzhou@flatironinstitute.org](qzhou@flatironinstitute.org)!
 
 Research Interests
 ------
@@ -43,8 +43,8 @@ Talks and Posters
 ------
 1. (Both poster & oral presentation) Oct. 2024, The 8-th CSIAM Student Forum in the 22nd Annual Meeting of CSIAM, Nanjing, Jiangsu. **Awarded by Excellent oral presentation in the 8-th CSIAM Student Forum**.
 2. (Oral presentation) Jan. 2025, The 6-th Greater Bay Area Symposium on Soft and Living Matter, Nansha, Guangzhou. **Awarded by Best oral presentation award-1st place.**
-3. (Oral presentation) Apr. 2025, Seminar in Zhejiang Normal University, Jinhua, Zhejiang.
-4. (Oral presentation) Apr. 2025, Scientific Computing Seminar in Shanghai Jiao Tong University, Minhang, Shanghai.
+3. (Invited oral presentation) Apr. 2025, Seminar in Zhejiang Normal University, Jinhua, Zhejiang.
+4. (Invited oral presentation) Apr. 2025, Scientific Computing Seminar in Shanghai Jiao Tong University, Minhang, Shanghai.
 
 
 Honors and Awards (selected)
