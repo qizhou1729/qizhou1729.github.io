@@ -17,7 +17,10 @@ Positions
 
 Research Interests
 ------
-I am now interested in fast algorithms of molecular dynamics (MD) simulation, especially scalable algorithms for general interaction kernels. Meanwhile, I consider the design of specialized MD hardwares and supercomputers and the application of new algorithms, expected to approach the SOTA. I am also interested in other fast algorithms such as convolution equations and non-local interactions.
+I am now interested in fast algorithms of molecular dynamics (MD) simulation, especially scalable algorithms for general interaction kernels. Meanwhile, I consider the design of specialized MD hardwares and supercomputers and the application of new algorithms, expected to approach the SOTA. I am also interested in other interesting topics in applied and computational mathematics including:
+1. Fast algorithm on convolution equations and non-local interactions.
+2. Harmonic analysis, asymptotic analysis and stochastic analysis on numerical methods.
+3. Cross-scale and multiscale calculation in different physical scales. 
 
 
 Publications
