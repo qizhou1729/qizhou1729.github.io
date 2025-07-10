@@ -25,7 +25,7 @@ I am now interested in fast algorithms of molecular dynamics (MD) simulation, es
 
 Publications
 ------
-1. (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://doi.org/10.1103/xsgv-zbvp), *Phys. Rev. E*, in press.
+1. (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://doi.org/10.1103/xsgv-zbvp), *Phys. Rev. E* 112 (2025), 015302.
 2. X. Gao<sup>1</sup>, **Q. Zhou<sup>1</sup>**, Z. Gan<sup>\*</sup> and J. Liang <sup>\*</sup>, [Accurate error estimates and optimal parameter selection in Ewald summation for dielectrically confined Coulomb systems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00438), *J. Chem. Theory Comput.*, 21 (12) (2025), 5890-5904. **Special issue "Developments of Theoretical and Computational Chemistry Methods in Asia"**. [A report by ACS publications](https://mp.weixin.qq.com/s/-Ku1Uobh4OD2YYRrL_53AQ).
 3. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S1063520325000132), *Appl. Comput. Harmon. Anal.* 77 (2025) 101.
 4. (Alphabetic order) Z. Xu, Y. Zhao and **Q. Zhou**, [Variance-reduced random batch Langevin dynamics](https://pubs.aip.org/aip/jcp/article/161/24/244110/3328715/Variance-reduced-random-batch-Langevin-dynamics), *J. Chem. Phys.*, 161(2024), 244110.
