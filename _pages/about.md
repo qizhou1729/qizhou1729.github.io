@@ -41,7 +41,9 @@ Preprints
 
 Patents
 ------
-1. 2022, A random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems, Application Number: 202210449795.9.
+1. 2025, A molecular dynamics simulation system. Application Number: 202510672289.X.
+2. 2022, A random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems. Application Number: 202210449795.9.
+   
 
 Talks and Posters
 ------
