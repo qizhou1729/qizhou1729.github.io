@@ -51,6 +51,8 @@ Talks and Posters
 2. (Oral presentation) Jan. 2025, The 6-th Greater Bay Area Symposium on Soft and Living Matter, Nansha, Guangzhou. **Awarded by Best oral presentation award-1st place.**
 3. (Invited oral presentation) Apr. 2025, Seminar in Zhejiang Normal University, Jinhua, Zhejiang.
 4. (Invited oral presentation) Apr. 2025, Scientific Computing Seminar in Shanghai Jiao Tong University, Minhang, Shanghai.
+5. (Poster) Aug. 2025, Flatiron Institute Summer@Simons Intern Poster Session, New York, USA.
+
 
 
 Honors and Awards (selected)
