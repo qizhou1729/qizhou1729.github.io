@@ -13,7 +13,8 @@ I am currently a first-year Ph.D. candidate (combined master and doctoral) in th
 
 Positions
 ------
-1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)). Also free to contact me at <qzhou@flatironinstitute.org> during the intern!
+1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)). 
+
 
 Research Interests
 ------
@@ -35,8 +36,9 @@ Publications
 
 Preprints
 ------
-1. Y. Tu, H. Tian, L. Shi and **Q. Zhou**, SchulzNN: A neural network-based matrix inversion solver inspired by Schulz iteration, submitted.
-2. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
+1. **Q. Zhou**, T. Wu, J. Liu, Q. Sun, H. Xie and Z. Xu, [Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](https://arxiv.org/abs/2508.10454).
+2. Y. Tu, H. Tian, L. Shi and **Q. Zhou**, SchulzNN: A neural network-based matrix inversion solver inspired by Schulz iteration, submitted.
+3. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
 
 
 Patents
