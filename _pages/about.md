@@ -26,7 +26,7 @@ I am now interested in fast algorithms of molecular dynamics (MD) simulation, es
 
 Publications
 ------
-1. **周颀**，江震，张倩茹，王一超，徐振礼，随机分批 Ewald 算法结合 LAMMPS 在鲲鹏处理器上的高性能实现，林新华等主编《算力珠玑·鲲鹏昇腾应用开发案例详解》第一章，pp. 3-24，人民邮电出版社，2025 (in Chinese).
+1. **周颀**，江震，张倩茹，王一超，徐振礼，[随机分批 Ewald 算法结合 LAMMPS 在鲲鹏处理器上的高性能实现](https://labs.epubit.com/bookDetails?id=UB8eb16cfe2f3e0)，林新华等主编《算力珠玑·鲲鹏昇腾应用开发案例详解》第一章，pp. 3-24，人民邮电出版社，2025 (in Chinese). [A .pdf version for free]()
 2.  (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://doi.org/10.1103/xsgv-zbvp), *Phys. Rev. E* 112 (2025), 015302.
 3. X. Gao<sup>1</sup>, **Q. Zhou<sup>1</sup>**, Z. Gan<sup>\*</sup> and J. Liang <sup>\*</sup>, [Accurate error estimates and optimal parameter selection in Ewald summation for dielectrically confined Coulomb systems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00438), *J. Chem. Theory Comput.*, 21 (12) (2025), 5890-5904. **Special issue "Developments of Theoretical and Computational Chemistry Methods in Asia"**. [A report by ACS publications](https://mp.weixin.qq.com/s/-Ku1Uobh4OD2YYRrL_53AQ).
 4. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S1063520325000132), *Appl. Comput. Harmon. Anal.* 77 (2025) 101.
