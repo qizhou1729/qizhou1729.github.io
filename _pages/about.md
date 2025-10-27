@@ -56,6 +56,8 @@ Talks and Posters
 3. (Invited oral presentation) Apr. 2025, Seminar in Zhejiang Normal University, Jinhua, Zhejiang.
 4. (Invited oral presentation) Apr. 2025, Scientific Computing Seminar in Shanghai Jiao Tong University, Minhang, Shanghai.
 5. (Poster) Aug. 2025, Flatiron Institute Summer@Simons Intern Poster Session, New York, USA.
+6. (Invited oral presentation) Oct. 2025, The 23rd Annual Meeting of CSIAM, Changsha, Hunan. In symposium: Radial basis function and kernel approximation methods: theory and application. 
+
 
 
 
