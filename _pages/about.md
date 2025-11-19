@@ -45,8 +45,9 @@ Preprints
 
 Patents
 ------
-1. 2025, A molecular dynamics simulation system. Application Number: 202510672289.X.
-2. 2022, A random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems. Application Number: 202210449795.9.
+1. 2025, A sum-of-Gaussians tensor neural network method for solving many-body  Schrödinger equation. Application Number: 202511081495.X.
+2. 2025, A molecular dynamics simulation system. Application Number: 202510672289.X.
+3. 2022, A random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems. Application Number: 202210449795.9.
    
 
 Talks and Posters
