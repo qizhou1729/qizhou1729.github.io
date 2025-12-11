@@ -23,6 +23,9 @@ I am now interested in fast algorithms of molecular dynamics (MD) simulation, es
 2. Harmonic analysis, asymptotic analysis and stochastic analysis on numerical methods.
 3. Cross-scale and multiscale calculation in different physical scales. 
 
+Funds
+------
+1. NSFC Young Scientist Fund (Ph.D. Program),  PI, 2026.1--2027.12
 
 Publications
 ------
