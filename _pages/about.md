@@ -29,13 +29,14 @@ Funds
 
 Publications
 ------
-1. **周颀**，江震，张倩茹，王一超，徐振礼，[随机分批 Ewald 算法结合 LAMMPS 在鲲鹏处理器上的高性能实现](https://labs.epubit.com/bookDetails?id=UB8eb16cfe2f3e0)，林新华等主编《算力珠玑·鲲鹏昇腾应用开发案例详解》第一章，pp. 3-24，人民邮电出版社，2025 (in Chinese). [A .pdf version for free](../assets/LAMMPS-Kunpeng.pdf)
-2.  (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://doi.org/10.1103/xsgv-zbvp), *Phys. Rev. E* 112 (2025), 015302.
-3. X. Gao<sup>#</sup>, **Q. Zhou<sup>#</sup>**, Z. Gan<sup>\*</sup> and J. Liang <sup>\*</sup>, [Accurate error estimates and optimal parameter selection in Ewald summation for dielectrically confined Coulomb systems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00438), *J. Chem. Theory Comput.*, 21 (12) (2025), 5890-5904. **Special issue "Developments of Theoretical and Computational Chemistry Methods in Asia"**. [A report by ACS publications](https://mp.weixin.qq.com/s/-Ku1Uobh4OD2YYRrL_53AQ).
-4. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S1063520325000132), *Appl. Comput. Harmon. Anal.* 77 (2025) 101.
-5. (Alphabetic order) Z. Xu, Y. Zhao and **Q. Zhou**, [Variance-reduced random batch Langevin dynamics](https://pubs.aip.org/aip/jcp/article/161/24/244110/3328715/Variance-reduced-random-batch-Langevin-dynamics), *J. Chem. Phys.*, 161(2024), 244110.
-6. W. Gao, T. Zhao, Y. Guo, J. Liang, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, **Q. Zhou**, S. Jin and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://global-sci.com/index.php/cicp/article/view/23227), *Comm. Comput. Phys.*, 39 (1) (2026), 296-322.
-7. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](https://epubs.siam.org/doi/abs/10.1137/22M1497201?af=R), *SIAM J. Sci. Comput.*, 45 (2023), B591-B617.
+1. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595), *Num. Math.*, in press.
+2.  **周颀**，江震，张倩茹，王一超，徐振礼，[随机分批 Ewald 算法结合 LAMMPS 在鲲鹏处理器上的高性能实现](https://labs.epubit.com/bookDetails?id=UB8eb16cfe2f3e0)，林新华等主编《算力珠玑·鲲鹏昇腾应用开发案例详解》第一章，pp. 3-24，人民邮电出版社，2025 (in Chinese). [A .pdf version for free](../assets/LAMMPS-Kunpeng.pdf)
+3.  (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://doi.org/10.1103/xsgv-zbvp), *Phys. Rev. E* 112 (2025), 015302.
+4. X. Gao<sup>#</sup>, **Q. Zhou<sup>#</sup>**, Z. Gan<sup>\*</sup> and J. Liang <sup>\*</sup>, [Accurate error estimates and optimal parameter selection in Ewald summation for dielectrically confined Coulomb systems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00438), *J. Chem. Theory Comput.*, 21 (12) (2025), 5890-5904. **Special issue "Developments of Theoretical and Computational Chemistry Methods in Asia"**. [A report by ACS publications](https://mp.weixin.qq.com/s/-Ku1Uobh4OD2YYRrL_53AQ).
+5. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S1063520325000132), *Appl. Comput. Harmon. Anal.* 77 (2025) 101.
+6. (Alphabetic order) Z. Xu, Y. Zhao and **Q. Zhou**, [Variance-reduced random batch Langevin dynamics](https://pubs.aip.org/aip/jcp/article/161/24/244110/3328715/Variance-reduced-random-batch-Langevin-dynamics), *J. Chem. Phys.*, 161(2024), 244110.
+7. W. Gao, T. Zhao, Y. Guo, J. Liang, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, **Q. Zhou**, S. Jin and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://global-sci.com/index.php/cicp/article/view/23227), *Comm. Comput. Phys.*, 39 (1) (2026), 296-322.
+8. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](https://epubs.siam.org/doi/abs/10.1137/22M1497201?af=R), *SIAM J. Sci. Comput.*, 45 (2023), B591-B617.
 
 
 Preprints
@@ -43,8 +44,6 @@ Preprints
 1. W. Gao, **Q. Zhou<sup>\*</sup>**, Q. Zhang and Z. Xu <sup>\*</sup>, [Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems](https://arxiv.org/abs/2509.24742).
 2.  **Q. Zhou<sup>#</sup>**, T. Wu<sup>#</sup>, J. Liu, Q. Sun, H. Xie and Z. Xu, [Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](https://arxiv.org/abs/2508.10454).
 3. Y. Tu, H. Tian, L. Shi and **Q. Zhou**, SchulzNN: A neural network-based matrix inversion solver inspired by Schulz iteration, submitted.
-4. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595).
-
 
 Patents
 ------
