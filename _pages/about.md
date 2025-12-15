@@ -29,7 +29,7 @@ Funds
 
 Publications
 ------
-1. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595), *Num. Math.*, in press.
+1. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://arxiv.org/abs/2412.04595), *Numerische Mathematik*, in press.
 2.  **周颀**，江震，张倩茹，王一超，徐振礼，[随机分批 Ewald 算法结合 LAMMPS 在鲲鹏处理器上的高性能实现](https://labs.epubit.com/bookDetails?id=UB8eb16cfe2f3e0)，林新华等主编《算力珠玑·鲲鹏昇腾应用开发案例详解》第一章，pp. 3-24，人民邮电出版社，2025 (in Chinese). [A .pdf version for free](../assets/LAMMPS-Kunpeng.pdf)
 3.  (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://doi.org/10.1103/xsgv-zbvp), *Phys. Rev. E* 112 (2025), 015302.
 4. X. Gao<sup>#</sup>, **Q. Zhou<sup>#</sup>**, Z. Gan<sup>\*</sup> and J. Liang <sup>\*</sup>, [Accurate error estimates and optimal parameter selection in Ewald summation for dielectrically confined Coulomb systems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00438), *J. Chem. Theory Comput.*, 21 (12) (2025), 5890-5904. **Special issue "Developments of Theoretical and Computational Chemistry Methods in Asia"**. [A report by ACS publications](https://mp.weixin.qq.com/s/-Ku1Uobh4OD2YYRrL_53AQ).
