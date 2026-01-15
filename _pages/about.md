@@ -42,9 +42,10 @@ Publications
 
 Preprints
 ------
-1. W. Gao, **Q. Zhou<sup>\*</sup>**, Q. Zhang and Z. Xu <sup>\*</sup>, [Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems](https://arxiv.org/abs/2509.24742).
-2.  **Q. Zhou<sup>#</sup>**, T. Wu<sup>#</sup>, J. Liu, Q. Sun, H. Xie and Z. Xu, [Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](https://arxiv.org/abs/2508.10454).
-3. Y. Tu, H. Tian, L. Shi and **Q. Zhou**, SchulzNN: A neural network-based matrix inversion solver inspired by Schulz iteration, submitted.
+1. (Alphabetic order) X. Gao, S. Jiang, J. Liang and **Q. Zhou**, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288)
+2. W. Gao, **Q. Zhou<sup>\*</sup>**, Q. Zhang and Z. Xu <sup>\*</sup>, [Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems](https://arxiv.org/abs/2509.24742).
+3.  **Q. Zhou<sup>#</sup>**, T. Wu<sup>#</sup>, J. Liu, Q. Sun, H. Xie and Z. Xu, [Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](https://arxiv.org/abs/2508.10454).
+4. Y. Tu, H. Tian, L. Shi and **Q. Zhou**, SchulzNN: A neural network-based matrix inversion solver inspired by Schulz iteration, submitted.
 
 Patents
 ------
