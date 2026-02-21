@@ -30,7 +30,7 @@ Funds & Projects
 
 Publications
 ------
-1. W. Gao, **Q. Zhou<sup>\*</sup>**, Q. Zhang and Z. Xu<sup>\*</sup>, [Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems](https://arxiv.org/abs/2509.24742), *Journal of Computational Physics*, in press.
+1. W. Gao, **Q. Zhou<sup>\*</sup>**, Q. Zhang and Z. Xu<sup>\*</sup>, [Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems](https://www.sciencedirect.com/science/article/pii/S0021999126001397), *Journal of Computational Physics*, in press.
 2. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://link.springer.com/article/10.1007/s00211-025-01518-y), *Numerische Mathematik*, in press.
 3.  **周颀**，江震，张倩茹，王一超，徐振礼，[随机分批 Ewald 算法结合 LAMMPS 在鲲鹏处理器上的高性能实现](https://labs.epubit.com/bookDetails?id=UB8eb16cfe2f3e0)，林新华等主编《算力珠玑·鲲鹏昇腾应用开发案例详解》第一章，pp. 3-24，人民邮电出版社，2025 (in Chinese). [A .pdf version for free](../assets/LAMMPS-Kunpeng.pdf)
 4.  (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://doi.org/10.1103/xsgv-zbvp), *Phys. Rev. E* 112 (2025), 015302.
