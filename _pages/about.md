@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ------
-I am currently a second-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Mar. 19st, 2026）
+I am currently a second-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Mar. 26th, 2026）
 
 Positions
 ------
@@ -43,10 +43,11 @@ Publications
 
 Preprints
 ------
-1. (Alphabetic order) Z. Jiang, J. Liang and **Q. Zhou**, [Random batch sum-of-Gaussians method for molecular dynamics simulation of particle systems in the NPT ensemble](https://arxiv.org/abs/2602.23582)
-2. (Alphabetic order) X. Gao, S. Jiang, J. Liang and **Q. Zhou**, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288)
-3. **Q. Zhou<sup>#</sup>**, T. Wu<sup>#</sup>, J. Liu, Q. Sun, H. Xie and Z. Xu, [Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](https://arxiv.org/abs/2508.10454).
-4. Y. Tu, H. Tian, L. Shi, **Q. Zhou**, Q. Zhang and W. Mao, SchulzNN: A neural network-based matrix inversion solver inspired by Schulz iteration, submitted.
+1. T. Wu<sup>#</sup>, **Q. Zhou<sup>#</sup>**, H. Zheng, H. Xie and Z. Xu, [Spectral convergence of sum-of-Gaussians tensor neural networks for many-electron Schrödinger equation](https://arxiv.org/abs/2603.23897)
+2. (Alphabetic order) Z. Jiang, J. Liang and **Q. Zhou**, [Random batch sum-of-Gaussians method for molecular dynamics simulation of particle systems in the NPT ensemble](https://arxiv.org/abs/2602.23582)
+3. (Alphabetic order) X. Gao, S. Jiang, J. Liang and **Q. Zhou**, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288)
+4. **Q. Zhou<sup>#</sup>**, T. Wu<sup>#</sup>, J. Liu, Q. Sun, H. Xie and Z. Xu, [Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](https://arxiv.org/abs/2508.10454).
+5. Y. Tu, H. Tian, L. Shi, **Q. Zhou**, Q. Zhang and W. Mao, SchulzNN: A neural network-based matrix inversion solver inspired by Schulz iteration, submitted.
 
 Patents
 ------
