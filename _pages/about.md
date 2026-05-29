@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ------
-I am currently a second-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Mar. 26th, 2026）
+I am currently a second-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on May 29th, 2026）
 
 Positions
 ------
@@ -30,24 +30,24 @@ Funds & Projects
 
 Publications
 ------
-1. W. Gao, **Q. Zhou<sup>\*</sup>**, Q. Zhang and Z. Xu<sup>\*</sup>, [Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems](https://www.sciencedirect.com/science/article/pii/S0021999126001397), *Journal of Computational Physics*, 555 (2026), 114789.
-2. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://link.springer.com/article/10.1007/s00211-025-01518-y), *Numerische Mathematik*, 158 (2026), 533-585.
-3.  **周颀**，江震，张倩茹，王一超，徐振礼，[随机分批 Ewald 算法结合 LAMMPS 在鲲鹏处理器上的高性能实现](https://labs.epubit.com/bookDetails?id=UB8eb16cfe2f3e0)，林新华等主编《算力珠玑·鲲鹏昇腾应用开发案例详解》第一章，pp. 3-24，人民邮电出版社，2025 (in Chinese). [A .pdf version for free](../assets/LAMMPS-Kunpeng.pdf)
-4.  (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://doi.org/10.1103/xsgv-zbvp), *Phys. Rev. E*, 112 (2025), 015302.
-5. X. Gao<sup>#</sup>, **Q. Zhou<sup>#</sup>**, Z. Gan<sup>\*</sup> and J. Liang<sup>\*</sup>, [Accurate error estimates and optimal parameter selection in Ewald summation for dielectrically confined Coulomb systems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00438), *J. Chem. Theory Comput.*, 21 (12) (2025), 5890-5904. **Special issue "Developments of Theoretical and Computational Chemistry Methods in Asia"**. [A report by ACS publications](https://mp.weixin.qq.com/s/-Ku1Uobh4OD2YYRrL_53AQ).
-6. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S1063520325000132), *Appl. Comput. Harmon. Anal.* 77 (2025) 101.
-7. (Alphabetic order) Z. Xu, Y. Zhao and **Q. Zhou**, [Variance-reduced random batch Langevin dynamics](https://pubs.aip.org/aip/jcp/article/161/24/244110/3328715/Variance-reduced-random-batch-Langevin-dynamics), *J. Chem. Phys.*, 161 (2024), 244110.
-8. W. Gao, T. Zhao, Y. Guo, J. Liang, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, **Q. Zhou**, S. Jin and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://global-sci.com/index.php/cicp/article/view/23227), *Comm. Comput. Phys.*, 39 (1) (2026), 296-322.
-9. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](https://epubs.siam.org/doi/abs/10.1137/22M1497201?af=R), *SIAM J. Sci. Comput.*, 45 (2023), B591-B617.
+1. (Alphabetic order) X. Gao, S. Jiang, J. Liang and **Q. Zhou**, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288), *SIAM J. Sci. Comput.*, in press.
+2.  W. Gao, **Q. Zhou<sup>\*</sup>**, Q. Zhang and Z. Xu<sup>\*</sup>, [Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems](https://www.sciencedirect.com/science/article/pii/S0021999126001397), *J. Comput. Phys.*, 555 (2026), 114789.
+3. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://link.springer.com/article/10.1007/s00211-025-01518-y), *Numer. Math.*, 158 (2026), 533-585.
+4.  **周颀**，江震，张倩茹，王一超，徐振礼，[随机分批 Ewald 算法结合 LAMMPS 在鲲鹏处理器上的高性能实现](https://labs.epubit.com/bookDetails?id=UB8eb16cfe2f3e0)，林新华等主编《算力珠玑·鲲鹏昇腾应用开发案例详解》第一章，pp. 3-24，人民邮电出版社，2025 (in Chinese). [A .pdf version for free](../assets/LAMMPS-Kunpeng.pdf)
+5.  (Alphabetic order) Y. Lin, Z. Xu, Y. Zhang and **Q. Zhou**, [Weighted balanced truncation method for approximating kernel functions by exponentials](https://doi.org/10.1103/xsgv-zbvp), *Phys. Rev. E*, 112 (2025), 015302.
+6. X. Gao<sup>#</sup>, **Q. Zhou<sup>#</sup>**, Z. Gan<sup>\*</sup> and J. Liang<sup>\*</sup>, [Accurate error estimates and optimal parameter selection in Ewald summation for dielectrically confined Coulomb systems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00438), *J. Chem. Theory Comput.*, 21 (12) (2025), 5890-5904. **Special issue "Developments of Theoretical and Computational Chemistry Methods in Asia"**. [A report by ACS publications](https://mp.weixin.qq.com/s/-Ku1Uobh4OD2YYRrL_53AQ).
+7. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Error estimate of the u-series method in molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S1063520325000132), *Appl. Comput. Harmon. Anal.* 77 (2025) 101.
+8. (Alphabetic order) Z. Xu, Y. Zhao and **Q. Zhou**, [Variance-reduced random batch Langevin dynamics](https://pubs.aip.org/aip/jcp/article/161/24/244110/3328715/Variance-reduced-random-batch-Langevin-dynamics), *J. Chem. Phys.*, 161 (2024), 244110.
+9. W. Gao, T. Zhao, Y. Guo, J. Liang, H. Liu, M. Luo, Z. Luo, W. Qin, Y. Wang, **Q. Zhou**, S. Jin and Z. Xu, [RBMD: A molecular dynamics package enabling to simulate 10 million all-atom particles in a single graphics processing unit](https://global-sci.com/index.php/cicp/article/view/23227), *Comm. Comput. Phys.*, 39 (1) (2026), 296-322.
+10. (Alphabetic order) J. Liang, Z. Xu and **Q. Zhou**, [Random batch sum-of-Gaussians method for molecular dynamics simulations of particle systems](https://epubs.siam.org/doi/abs/10.1137/22M1497201?af=R), *SIAM J. Sci. Comput.*, 45 (2023), B591-B617.
 
 
 Preprints
 ------
 1. T. Wu<sup>#</sup>, **Q. Zhou<sup>#</sup>**, H. Zheng, H. Xie and Z. Xu, [Spectral convergence of sum-of-Gaussians tensor neural networks for many-electron Schrödinger equation](https://arxiv.org/abs/2603.23897)
 2. (Alphabetic order) Z. Jiang, J. Liang and **Q. Zhou**, [Random batch sum-of-Gaussians method for molecular dynamics simulation of particle systems in the NPT ensemble](https://arxiv.org/abs/2602.23582)
-3. (Alphabetic order) X. Gao, S. Jiang, J. Liang and **Q. Zhou**, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288)
-4. **Q. Zhou<sup>#</sup>**, T. Wu<sup>#</sup>, J. Liu, Q. Sun, H. Xie and Z. Xu, [Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](https://arxiv.org/abs/2508.10454).
-5. Y. Tu, H. Tian, L. Shi, **Q. Zhou**, Q. Zhang and W. Mao, SchulzNN: A neural network-based matrix inversion solver inspired by Schulz iteration, submitted.
+3. **Q. Zhou<sup>#</sup>**, T. Wu<sup>#</sup>, J. Liu, Q. Sun, H. Xie and Z. Xu, [Sum-of-Gaussians tensor neural networks for high-dimensional Schrödinger equation](https://arxiv.org/abs/2508.10454).
+4. Y. Tu, H. Tian, L. Shi, **Q. Zhou**, Q. Zhang and W. Mao, SchulzNN: A neural network-based matrix inversion solver inspired by Schulz iteration, submitted.
 
 Patents
 ------
@@ -63,7 +63,8 @@ Talks and Posters
 3. (Invited oral presentation) Apr. 2025, Seminar in Zhejiang Normal University, Jinhua, Zhejiang.
 4. (Invited oral presentation) Apr. 2025, Scientific Computing Seminar in Shanghai Jiao Tong University, Minhang, Shanghai.
 5. (Poster) Aug. 2025, Flatiron Institute Summer@Simons Intern Poster Session, New York, USA.
-6. (Invited oral presentation) Oct. 2025, The 23rd Annual Meeting of CSIAM, Changsha, Hunan. In symposium: Radial basis function and kernel approximation methods: theory and application. 
+6. (Invited oral presentation) Oct. 2025, The 23rd Annual Meeting of CSIAM, Changsha, Hunan. In symposium: Radial basis function and kernel approximation methods: theory and application.
+7. (Organizer and Invited oral presentation) Jun. 2026, Scientific Computing and Differential Equations (SciCADE 2026), Edinburgh, UK. In symposium: When Classical Molecular Dynamics Meets Machine Learning: Algorithms and Applications.
 
 
 
