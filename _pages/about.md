@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ------
-I am currently a second-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on June 29th, 2026）
+I am currently a second-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Aug. 8th, 2026）
 
 Positions
 ------
@@ -74,13 +74,14 @@ Talks and Posters
 
 Honors and Awards (selected)
 ------
-1. 2025, National scholarship (Ph.D.).
-2. 2024, Huatai securities technology scholarship.
-3. 2024, Bonditech spark scholarship.
-4. 2023, National scholarship (M.S.).
-5. 2021, The 5-th Sensetime scholarship.
-6. 2021, Baosteel outstanding student scholarship.
-7. 2021, Chia-Chiao Lin silver medal in the 12-th Yau's mathematics competition.
-8. 2021, Outstanding winner, COMAP scholarship and SIAM award in 2021 MCM/ICM.
-9. 2020, Distinguished prize in the 2nd Alibaba international mathematics competition.
-10. 2019, The first prize (national level) of the 11-th Chinese mathematics competition.
+1. 2026, SJTU Excellent teaching assistant.
+2. 2025, National scholarship (Ph.D.).
+3. 2024, Huatai securities technology scholarship.
+4. 2024, Bonditech spark scholarship.
+5. 2023, National scholarship (M.S.).
+6. 2021, The 5-th Sensetime scholarship.
+7. 2021, Baosteel outstanding student scholarship.
+8. 2021, Chia-Chiao Lin silver medal in the 12-th Yau's mathematics competition.
+9. 2021, Outstanding winner, COMAP scholarship and SIAM award in 2021 MCM/ICM.
+10. 2020, Distinguished prize in the 2nd Alibaba international mathematics competition.
+11. 2019, The first prize (national level) of the 11-th Chinese mathematics competition.
