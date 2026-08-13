@@ -9,12 +9,12 @@ redirect_from:
 
 About me
 ------
-I am currently a second-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Aug. 8th, 2026）
+I am currently a second-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Aug. 13th, 2026）
 
 Positions
 ------
 1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)).
-2. Jun. 2026--Dec. 2026, Visiting Ph.D. Student, Department of Mathematics, KTH Royal Institute of Technology (Mentor: [Anna-Karin Tornberg](https://www.kth.se/profile/akto)).
+2. Jun. 2026--Dec. 2026, Visiting Ph.D. Student, Department of Mathematics, KTH Royal Institute of Technology (Mentor: [Anna-Karin Tornberg](https://www.kth.se/profile/akto)). Also feel free to contact me at [my KTH email](qizhou2@kth.se) during this period!
 
 
 Research Interests
