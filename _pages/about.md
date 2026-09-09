@@ -11,6 +11,12 @@ About me
 ------
 I am currently a third-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Sept. 7th, 2026）
 
+
+Updates and News
+------
+I’m now planing to co-organize a mini-symposia at **the 11th International Congress on Industrial and Applied Mathematics (ICIAM 2027)**, with the topic of *"Recent Advances in Molecular Dynamics: Machine Learning, Fast Algorithms, and High-Performance Computing”*. If you are interested in giving a presentation, please feel free to contact me!
+
+
 Positions
 ------
 1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)).
@@ -68,7 +74,8 @@ Talks and Posters
 4. (Invited oral presentation) Apr. 2025, Scientific Computing Seminar in Shanghai Jiao Tong University, Minhang, Shanghai.
 5. (Poster) Aug. 2025, Flatiron Institute Summer@Simons Intern Poster Session, New York, USA.
 6. (Invited oral presentation) Oct. 2025, The 23rd Annual Meeting of CSIAM, Changsha, Hunan. In symposium: Radial basis function and kernel approximation methods: theory and application.
-7. (Organizer and Invited oral presentation) Jun. 2026, Scientific Computing and Differential Equations (SciCADE 2026), Edinburgh, UK. In symposium: When Classical Molecular Dynamics Meets Machine Learning: Algorithms and Applications.
+7. (Invited oral presentation) Apr. 2026, Seminar in Hunan Normal University, Changsha, Hunan.
+8. (Organizer and Invited oral presentation) Jun. 2026, Scientific Computing and Differential Equations (SciCADE 2026), Edinburgh, UK. In symposium: When Classical Molecular Dynamics Meets Machine Learning: Algorithms and Applications.
 
 
 
