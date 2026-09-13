@@ -20,7 +20,7 @@ I’m now planing to co-organize a mini-symposia at **the 11th International Con
 Positions
 ------
 1. May 2025--Aug. 2025, Intern Research Associate, CCM, Flatiron Institute, Simons Foundation (Mentor: [Shidong Jiang](https://www.simonsfoundation.org/people/shidong-jiang/) and [Jiuyang Liang](https://liangjiuyang.github.io)).
-2. Jun. 2026--Dec. 2026, Visiting Ph.D. Student, Department of Mathematics, KTH Royal Institute of Technology (Mentor: [Anna-Karin Tornberg](https://www.kth.se/profile/akto)). Also feel free to contact me at [my KTH email](qizhou2@kth.se) during this period!
+2. Jun. 2026--Dec. 2026, Visiting Ph.D. Student, Department of Mathematics, KTH Royal Institute of Technology (Mentor: [Anna-Karin Tornberg](https://www.kth.se/profile/akto)). Also feel free to contact me at my KTH email (qizhou2@kth.se) during this period!
 
 
 Research Interests
