@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ------
-I am currently a third-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Sept. 7th, 2026）
+I am currently a third-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Oct. 28th, 2026）
 
 
 Updates and News
@@ -38,7 +38,7 @@ Funds & Projects
 Publications
 ------
 1. T. Wu<sup>#</sup>, **Q. Zhou<sup>#</sup>**, H. Zheng, H. Xie and Z. Xu, [Spectral convergence of sum-of-Gaussians tensor neural networks for many-electron Schrödinger equation](https://pubs.aip.org/aip/jcp/article/164/24/244103/3395937/Spectral-convergence-of-sum-of-Gaussians-tensor), *J. Chem. Phys.*, 164 (24) (2026), 244103.  **Special topic "Machine Learning for Electronic Structure"**. [A report by SOG AI Co. Ltd.](https://mp.weixin.qq.com/s/55WF6cJQOIl8BEIWELGvAA).
-2. (Alphabetic order) X. Gao, S. Jiang, J. Liang and **Q. Zhou<sup>\*</sup>**, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://arxiv.org/abs/2601.09288), *SIAM J. Sci. Comput.*, in press.
+2. (Alphabetic order) X. Gao, S. Jiang, J. Liang and **Q. Zhou<sup>\*</sup>**, [An O(log N) Monte Carlo method for periodic Coulomb systems](https://epubs.siam.org/doi/full/10.1137/26M1841938), *SIAM J. Sci. Comput.*, 48 (5) (2026), A3182-A3207.
 3.  W. Gao, **Q. Zhou<sup>\*</sup>**, Q. Zhang and Z. Xu<sup>\*</sup>, [Symmetry-preserving random batch Ewald method for constant-potential simulation of electrochemical systems](https://www.sciencedirect.com/science/article/pii/S0021999126001397), *J. Comput. Phys.*, 555 (2026), 114789.
 4. (Alphabetic order) X. Gao, S. Jiang, J. Liang, Z. Xu and **Q. Zhou**, [A fast spectral sum-of-Gaussians method for electrostatic summation in quasi-2D systems](https://link.springer.com/article/10.1007/s00211-025-01518-y), *Numer. Math.*, 158 (2026), 533-585. [A report by SJTU](https://news.sjtu.edu.cn/jdzh/20260518/222800.html).
 5.  **周颀**，江震，张倩茹，王一超，徐振礼，[随机分批 Ewald 算法结合 LAMMPS 在鲲鹏处理器上的高性能实现](https://labs.epubit.com/bookDetails?id=UB8eb16cfe2f3e0)，林新华等主编《算力珠玑·鲲鹏昇腾应用开发案例详解》第一章，pp. 3-24，人民邮电出版社，2025 (in Chinese). [A .pdf version for free](../assets/LAMMPS-Kunpeng.pdf)
