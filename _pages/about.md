@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ------
-I am currently a third-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Oct. 30th, 2026）
+I am currently a third-year Ph.D. candidate (combined master and doctoral) in the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), where I conduct research in computational mathematics advised by [Prof. Zhenli Xu](https://math.sjtu.edu.cn/faculty/xuzl/). I also received my major B.S. in Mathematics and Applied Mathematics (Wen-Tsun Wu’s class) and minor B.E. in Computer Science and Technology from Shanghai Jiao Tong University. More information can be found on my [Curriculum Vitae](../assets/CV.pdf) and [The HPC-Lab](https://www.x-mol.com/groups/HPC_Lab). （Updated on Nov. 3rd, 2026）
 
 
 Updates and News
@@ -77,6 +77,7 @@ Talks and Posters
 7. (Invited oral presentation) Apr. 2026, Seminar in Hunan Normal University, Changsha, Hunan.
 8. (Organizer and Invited oral presentation) Jun. 2026, Scientific Computing and Differential Equations (SciCADE 2026), Edinburgh, UK. In symposium: When Classical Molecular Dynamics Meets Machine Learning: Algorithms and Applications.
 9. (Poster) Oct. 2026, 6th Workshop on Scientific Computing in Sweden (SWEDCOMP 2026), Karlstad, Sweden.
+10. (Poster) Dec. 2026, Monte Carlo Methods in Stockholm 2026, Stockholm, Sweden.
 
 
 
